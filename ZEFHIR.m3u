@@ -1,0 +1,218 @@
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10288099_ico.png?ts=1584912666" group-title="(ZEFHIR IP TV)",EBA TV ILKOKUL 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tv-e-okul00.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10288114_ico.png?ts=1584912696" group-title="(ZEFHIR IP TV)",EBA TV ORTAOKUL 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tv-e-okul01.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10288130_ico.png?ts=1584912717" group-title="(ZEFHIR IP TV)",EBA TV LISE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tv-e-okul02.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7813271_ico.png?ts=1584914447" group-title="(ZEFHIR IP TV)",TRTSPOR 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://iptvmasterlink.dyndns.org:8080/Entry/trtsporhd_yeni/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10126188_ico.png?ts=1588371034" group-title="(ZEFHIR IP TV)",TRTSPOR 2 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tv-trtspor2.live.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7813283_ico.png?ts=1588371094" group-title="(ZEFHIR IP TV)",A SPOR 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10126200_ico.png?ts=1584914411" group-title="(ZEFHIR IP TV)",SPORTS TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9167631_ico.png?ts=1584914353" group-title="(ZEFHIR IP TV)",Bein Sports 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://vip1080.us:8000/live/Hakan/asdfghj/37847.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7813584_ico.png?ts=1584914384" group-title="(ZEFHIR IP TV)",TiviBu Sport 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://dl1.webtv.tivibu.com.tr/konf/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7814203_ico.png?ts=1588371126" group-title="(ZEFHIR IP TV)",ATV HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/trt-1.png" group-title="(ZEFHIR IP TV)",TRT 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b1314000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/5dcd4eec866ac302bcb1c34b.png" group-title="(ZEFHIR IP TV)",SHOW TV 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b1314000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7814213_ico.png?ts=1588371147" group-title="(ZEFHIR IP TV)",KANAL D
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b1314000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/5dc2be53866ac331e0feb20e.png" group-title="(ZEFHIR IP TV)",STAR TV 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/chunklist_b1314000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/5dc2bd27866ac331e0feb1fe.png" group-title="(ZEFHIR IP TV)",FOX 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7814210_ico.png?ts=1588371175" group-title="(ZEFHIR IP TV)",TV 8 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b1314000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7855509_ico.png?ts=1588371227" group-title="(ZEFHIR IP TV)",TV 8.5 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/5c63cdf3866ac30cbc2ad8ae.png" group-title="(ZEFHIR IP TV)",A2 HD 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/5dc2c114866ac331e0feb225.png" group-title="(ZEFHIR IP TV)",TEVE2 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7892757_ico.png?ts=1588371422" group-title="(ZEFHIR IP TV)",TLC TV 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_sltur.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/5c63c27a866ac30cbc2ad836.png" group-title="(ZEFHIR IP TV)",BEYAZ TV 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/56a72d98058d024d98970264.png" group-title="(ZEFHIR IP TV)",NTV 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/5dc2beb0866ac31da06187b6.png" group-title="(ZEFHIR IP TV)",CNN TURK 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/5dc2bf0c866ac331e0feb216.png" group-title="(ZEFHIR IP TV)",HABERTURK 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/5c62b4c0866ac30cbc2ad5f4.png" group-title="(ZEFHIR IP TV)",HABER GLOBAL 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/5c63ca3a866ac30cbc2ad87a.png" group-title="(ZEFHIR IP TV)",TRT HABER 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7814859_ico.png?ts=1588371368" group-title="(ZEFHIR IP TV)",HALK TV 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10269329_ico.png?ts=1588371343" group-title="(ZEFHIR IP TV)",YANSINEMA TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://usb1.ninacdn.com/ssh101/YansinemaTV/YansinemaTV/chunklist_w1521989757.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10269259_ico.png?ts=1588371268" group-title="(ZEFHIR IP TV)",BLUTV Aksiyon 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10269251_ico.png?ts=1588371292" group-title="(ZEFHIR IP TV)",BLUTV Komedi 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+
+--------FÝLM VE DÝÐER KANALLAR--------
+#EXTM3U
+#EXTINF:-1,Sinevid TV HD
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/73
+#EXTINF:-1,Sinevid YabancÄ± HD
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/75
+#EXTINF:-1,Sinevid Vizyon 1
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/5
+#EXTINF:-1,Sinema TV Aksiyon
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/81
+#EXTINF:-1,Sinema TV Komedi
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/47
+#EXTINF:-1,Sinema TV Yerli
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/45
+#EXTINF:-1,Sinevid Vizyon 2
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/6
+#EXTINF:-1,Sinevid Vizyon 3
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/7
+#EXTINF:-1,Sinevid Vizyon 4
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/61
+#EXTINF:-1,Sinevid Vizyon 5
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/62
+#EXTINF:-1,Sinevid Loca 1
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/2
+#EXTINF:-1,Sinevid Loca 2
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/3
+#EXTINF:-1,Sinevid Loca 3
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/4
+#EXTINF:-1,FX
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/74
+#EXTINF:-1,FOX Crime
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/65
+#EXTINF:-1,FOX Life
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/66
+#EXTINF:-1,MovieSmart Action
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/10
+#EXTINF:-1,Bein Box Office 1
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/76
+#EXTINF:-1,Bein Box Office 2
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/77
+#EXTINF:-1,Bein Box Office 3
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/78
+#EXTINF:-1,Bein Movies TÃ¼rk
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/58
+#EXTINF:-1,Bein Movies Action 1
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/27
+#EXTINF:-1,Bein Movies Action 2
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/28
+#EXTINF:-1,Bein Movies Premier 1
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/56
+#EXTINF:-1,Bein Movies Premier 2
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/57
+#EXTINF:-1,Fiberbox TÃ¼rk
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/64
+#EXTINF:-1,Fiberbox Komedi
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/63
+#EXTINF:-1,Fiberbox Korku
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/67
+#EXTINF:-1,Filmbox Action
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/12
+#EXTINF:-1,Filmbox Horror
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/59
+#EXTINF:-1,Filmbox Sci-Fi
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/13
+#EXTINF:-1,Filmbox Yerli
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/60
+#EXTINF:-1,Animal Planet
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/14
+#EXTINF:-1,National Geographic
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/16
+#EXTINF:-1,NAT GEO WILD
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/38
+#EXTINF:-1,EUROSPORT 1
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/18
+#EXTINF:-1,EUROSPORT 2
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/37
+#EXTINF:-1,S Sport 1
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/31
+#EXTINF:-1,S Sport 2
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/32
+#EXTINF:-1,Tivibu Spor 1
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/34
+#EXTINF:-1,Bein Sports 1 (4k)
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/51
+#EXTINF:-1,Bein Sports 1
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/20
+#EXTINF:-1,Bein Sports 2
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/21
+#EXTINF:-1,Bein Sports 3
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/23
+#EXTINF:-1,Bein Sports 4
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/24
+#EXTINF:-1,Smart Spor
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/22
+#EXTINF:-1,FASHION TV
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/40
+#EXTINF:-1,Fashion Midnight*
+http://sinevid.kozow.com:34500/5bz2vdr6t1/908274660/39
